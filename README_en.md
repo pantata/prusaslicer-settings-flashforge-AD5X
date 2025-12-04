@@ -1,10 +1,10 @@
 # Flashforge AD5X PrusaSlicer Settings
 
-Configuration package for PrusaSlicer for the **Flashforge AD5X** 3D printer.
+Configuration package for PrusaSlicer for the **Flashforge AD5X** 3D printer with **[ZMOD](https://github.com/ghzserg/zmod)** module installed.
 
 ## 📋 Contents
 
-This repository contains a complete configuration for printing on the Flashforge AD5X printer using PrusaSlicer software.
+This repository contains a complete configuration for printing on the Flashforge AD5X printer with ZMOD module using PrusaSlicer software.
 
 ### What's in `AD5X_PrusaSlicer_config_bundle.ini`
 
@@ -16,6 +16,11 @@ This repository contains a complete configuration for printing on the Flashforge
   - ProLab PLA (multiple colors)
 - **Printer Profiles** - Printer configuration with different nozzle sizes (0.4mm, 0.6mm)
 - **Physical Printer Settings** - Specific settings for AD5X
+
+## ⚠️ Requirements
+
+- Flashforge AD5X with **[ZMOD](https://github.com/ghzserg/zmod)** module installed
+- PrusaSlicer 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), branch `MoonrakerWebUI`)
 
 ## 🚀 Installation
 

@@ -1,10 +1,10 @@
 # Flashforge AD5X PrusaSlicer Settings
 
-Konfigurační balíček PrusaSlicer pro 3D tiskárnu **Flashforge AD5X**.
+Konfigurační balíček PrusaSlicer pro 3D tiskárnu **Flashforge AD5X** s nainstalovaným **[ZMOD](https://github.com/ghzserg/zmod)**.
 
 ## 📋 Obsah
 
-Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashforge AD5X pomocí software PrusaSlicer.
+Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashforge AD5X s ZMOD modulem pomocí software PrusaSlicer.
 
 ### Co je v souboru `AD5X_PrusaSlicer_config_bundle.ini`
 
@@ -16,6 +16,11 @@ Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashfo
   - ProLab PLA (více barev)
 - **Printer Profiles** - Konfigurace tiskárny s různými velikostmi trysek (0.4mm, 0.6mm)
 - **Physical Printer Settings** - Konkrétní nastavení pro AD5X
+
+## ⚠️ Požadavky
+
+- Flashforge AD5X s nainstalovaným **[ZMOD](https://github.com/ghzserg/zmod)** modulem
+- PrusaSlicer 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), větev `MoonrakerWebUI`)
 
 ## 🚀 Instalace
 
