@@ -6,7 +6,7 @@ Konfigurační balíček PrusaSlicer pro 3D tiskárnu **Flashforge AD5X**.
 
 Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashforge AD5X pomocí software PrusaSlicer.
 
-### Co je v souboru `PrusaSlicer_config_bundle.ini`
+### Co je v souboru `AD5X_PrusaSlicer_config_bundle.ini`
 
 - **Print Profiles** - Profily pro tisk s různými tloušťkami vrstev (0.08mm, 0.12mm, 0.2mm)
 - **Filament Profiles** - Nastavení pro různé typy a značky filamentu:
@@ -21,15 +21,15 @@ Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashfo
 
 ### Postup:
 
-1. Stáhněte soubor `PrusaSlicer_config_bundle.ini`
+1. Stáhněte soubor `AD5X_PrusaSlicer_config_bundle.ini`
 2. Otevřete PrusaSlicer
 3. Přejděte do nabídky **Soubor → Importovat konfiguraci**
-4. Vyberte stažený soubor `PrusaSlicer_config_bundle.ini`
+4. Vyberte stažený soubor `AD5X_PrusaSlicer_config_bundle.ini`
 5. Potvrďte import a restartujte PrusaSlicer
 
 ### Alternativa - Ruční instalace:
 
-Soubor `PrusaSlicer_config_bundle.ini` zkopírujte do adresáře s konfigurací PrusaSlicer:
+Soubor `AD5X_PrusaSlicer_config_bundle.ini` zkopírujte do adresáře s konfigurací PrusaSlicer:
 
 **macOS:**
 ```

@@ -6,7 +6,7 @@ Configuration package for PrusaSlicer for the **Flashforge AD5X** 3D printer.
 
 This repository contains a complete configuration for printing on the Flashforge AD5X printer using PrusaSlicer software.
 
-### What's in `PrusaSlicer_config_bundle.ini`
+### What's in `AD5X_PrusaSlicer_config_bundle.ini`
 
 - **Print Profiles** - Print profiles with various layer heights (0.08mm, 0.12mm, 0.2mm)
 - **Filament Profiles** - Settings for different filament types and brands:
@@ -21,15 +21,15 @@ This repository contains a complete configuration for printing on the Flashforge
 
 ### Steps:
 
-1. Download the `PrusaSlicer_config_bundle.ini` file
+1. Download the `AD5X_PrusaSlicer_config_bundle.ini` file
 2. Open PrusaSlicer
 3. Go to menu **File → Import Configuration**
-4. Select the downloaded `PrusaSlicer_config_bundle.ini` file
+4. Select the downloaded `AD5X_PrusaSlicer_config_bundle.ini` file
 5. Confirm import and restart PrusaSlicer
 
 ### Alternative - Manual Installation:
 
-Copy the `PrusaSlicer_config_bundle.ini` file to PrusaSlicer's configuration directory:
+Copy the `AD5X_PrusaSlicer_config_bundle.ini` file to PrusaSlicer's configuration directory:
 
 **macOS:**
 ```
