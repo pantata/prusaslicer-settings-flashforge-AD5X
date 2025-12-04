@@ -20,7 +20,7 @@ This repository contains a complete configuration for printing on the Flashforge
 ## ⚠️ Requirements
 
 - Flashforge AD5X with **[ZMOD](https://github.com/ghzserg/zmod)** module installed
-- PrusaSlicer 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), branch `MoonrakerWebUI`)
+- PrusaSlicer 2.9.4+ 
 
 ## 🚀 Installation
 
