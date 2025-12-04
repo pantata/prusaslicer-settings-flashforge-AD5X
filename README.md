@@ -30,31 +30,12 @@ Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashfo
 2. Otevřete PrusaSlicer
 3. Přejděte do nabídky **Soubor → Importovat konfiguraci**
 4. Vyberte stažený soubor `AD5X_PrusaSlicer_config_bundle.ini`
-5. Potvrďte import a restartujte PrusaSlicer
-
-### Alternativa - Ruční instalace:
-
-Soubor `AD5X_PrusaSlicer_config_bundle.ini` zkopírujte do adresáře s konfigurací PrusaSlicer:
-
-**macOS:**
-```
-~/Library/Application Support/PrusaSlicer
-```
-
-**Windows:**
-```
-%AppData%\PrusaSlicer
-```
-
-**Linux:**
-```
-~/.local/share/PrusaSlicer
-```
+5. Potvrďte import a restartujte PrusaSlicer```
 
 ## 📝 Technické detaily
 
-- **PrusaSlicer verze:** 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), větev `MoonrakerWebUI`)
-- **Tiskárna:** Flashforge AD5X
+- **PrusaSlicer verze:** 2.9.4+
+- **Tiskárna:** Flashforge AD5X s nainstalovaným ZMOD (https://github.com/ghzserg/zmod)
 - **Poslední aktualizace:** 2025-12-04
 
 ## 📋 Profily

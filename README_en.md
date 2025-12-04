@@ -32,29 +32,11 @@ This repository contains a complete configuration for printing on the Flashforge
 4. Select the downloaded `AD5X_PrusaSlicer_config_bundle.ini` file
 5. Confirm import and restart PrusaSlicer
 
-### Alternative - Manual Installation:
-
-Copy the `AD5X_PrusaSlicer_config_bundle.ini` file to PrusaSlicer's configuration directory:
-
-**macOS:**
-```
-~/Library/Application Support/PrusaSlicer
-```
-
-**Windows:**
-```
-%AppData%\PrusaSlicer
-```
-
-**Linux:**
-```
-~/.local/share/PrusaSlicer
-```
 
 ## 📝 Technical Details
 
 - **PrusaSlicer Version:** 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), branch `MoonrakerWebUI`)
-- **Printer:** Flashforge AD5X
+- **Printer:** Flashforge AD5X with ZMOD installed (https://github.com/ghzserg/zmod)
 - **Last Updated:** 2025-12-04
 
 ## 📋 Profiles
