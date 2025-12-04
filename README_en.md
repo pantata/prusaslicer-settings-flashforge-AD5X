@@ -69,4 +69,4 @@ These settings are freely available for personal and commercial use.
 
 ---
 
-**Note:** These settings were created and tested on Flashforge AD5X. Results may vary depending on printer condition and filament quality.
+**Note:** These settings were created and tested on the Flashforge AD5X. Results may vary depending on the condition of the printer and the quality and type of filament.

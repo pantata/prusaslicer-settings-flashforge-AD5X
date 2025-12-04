@@ -68,4 +68,4 @@ Tyto nastavení jsou volně dostupná pro osobní i komerční použití.
 
 ---
 
-**Poznámka:** Tato nastavení byla vytvořena a testována na Flashforge AD5X. Výsledky se mohou lišit v závislosti na stavu tiskárny a kvalitě filamentu.
+**Poznámka:** Tato nastavení byla vytvořena a testována na Flashforge AD5X. Výsledky se mohou lišit v závislosti na stavu tiskárny a kvalitě a druhu filamentu.
