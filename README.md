@@ -20,7 +20,7 @@ Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashfo
 ## ⚠️ Požadavky
 
 - Flashforge AD5X s nainstalovaným **[ZMOD](https://github.com/ghzserg/zmod)** modulem
-- PrusaSlicer 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), větev `MoonrakerWebUI`)
+- PrusaSlicer 2.9.4+ 
 
 ## 🚀 Instalace
 
