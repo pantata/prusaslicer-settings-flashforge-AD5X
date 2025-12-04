@@ -48,7 +48,7 @@ Soubor `PrusaSlicer_config_bundle.ini` zkopírujte do adresáře s konfigurací 
 
 ## 📝 Technické detaily
 
-- **PrusaSlicer verze:** 2.9.4+
+- **PrusaSlicer verze:** 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), větev `MoonrakerWebUI`)
 - **Tiskárna:** Flashforge AD5X
 - **Poslední aktualizace:** 2025-12-04
 

@@ -48,7 +48,7 @@ Copy the `PrusaSlicer_config_bundle.ini` file to PrusaSlicer's configuration dir
 
 ## 📝 Technical Details
 
-- **PrusaSlicer Version:** 2.9.4+
+- **PrusaSlicer Version:** 2.9.4+ (fork [pantata/PrusaSlicer](https://github.com/pantata/PrusaSlicer.git), branch `MoonrakerWebUI`)
 - **Printer:** Flashforge AD5X
 - **Last Updated:** 2025-12-04
 
