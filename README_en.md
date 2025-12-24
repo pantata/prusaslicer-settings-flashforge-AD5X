@@ -20,7 +20,7 @@ This repository contains a complete configuration for printing on the Flashforge
 ## ⚠️ Requirements
 
 - Flashforge AD5X with **[ZMOD](https://github.com/ghzserg/zmod)** module installed
-- enabled Bambufly plugin
+- enabled [Bambufy](https://github.com/function3d/bambufy) plugin
 - PrusaSlicer 2.9.4+ 
 
 ## 🚀 Installation
