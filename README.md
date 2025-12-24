@@ -20,7 +20,7 @@ Tento repozitář obsahuje kompletní konfiguraci pro tisk na tiskárně Flashfo
 ## ⚠️ Požadavky
 
 - Flashforge AD5X s nainstalovaným **[ZMOD](https://github.com/ghzserg/zmod)** modulem
-- povoleny plugin Bambufly
+- povoleny plugin [Bambufy](https://github.com/function3d/bambufy)
 - PrusaSlicer 2.9.4+ 
 
 ## 🚀 Instalace
