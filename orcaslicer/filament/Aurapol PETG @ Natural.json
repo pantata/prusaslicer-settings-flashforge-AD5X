@@ -24,7 +24,7 @@
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "2"
+        "3"
     ],
     "compatible_printers": [],
     "compatible_printers_condition": "",
@@ -34,13 +34,13 @@
         "80"
     ],
     "cool_plate_temp": [
-        "65"
+        "85"
     ],
     "cool_plate_temp_initial_layer": [
-        "65"
+        "85"
     ],
     "default_filament_colour": [
-        "#996633"
+        "#FFFFFF"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -55,19 +55,19 @@
         "0"
     ],
     "eng_plate_temp": [
-        "65"
+        "85"
     ],
     "eng_plate_temp_initial_layer": [
-        "65"
+        "85"
     ],
     "fan_cooling_layer_time": [
         "60"
     ],
     "fan_max_speed": [
-        "100"
+        "80"
     ],
     "fan_min_speed": [
-        "50"
+        "25"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -79,13 +79,13 @@
         "4"
     ],
     "filament_cost": [
-        "499"
+        "299"
     ],
     "filament_density": [
-        "1.24"
+        "1.27"
     ],
     "filament_deretraction_speed": [
-        "30"
+        "nil"
     ],
     "filament_diameter": [
         "1.75"
@@ -94,7 +94,7 @@
         "; Filament-specific end gcode \n;END gcode for filament\nCLEAR_ACTIVE_SPOOL"
     ],
     "filament_flow_ratio": [
-        "0.99"
+        "1"
     ],
     "filament_is_support": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "15"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -157,10 +157,10 @@
         "2"
     ],
     "filament_retraction_speed": [
-        "30"
+        "40"
     ],
     "filament_settings_id": [
-        "Eryone Wood"
+        "Aurapol PETG @ Natural"
     ],
     "filament_shrink": [
         "100%"
@@ -178,13 +178,13 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.0\nSET_ACTIVE_SPOOL ID=3\nSET_RETRACTION RETRACT_LENGTH=0.8\nSET_RETRACTION RETRACT_SPEED=30"
+        "; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.0025\nSET_ACTIVE_SPOOL ID=13\nSET_RETRACTION RETRACT_LENGTH=1.8\nSET_RETRACTION RETRACT_SPEED=30"
     ],
     "filament_toolchange_delay": [
         "0"
     ],
     "filament_type": [
-        "PLA"
+        "PETG"
     ],
     "filament_unloading_speed": [
         "90"
@@ -212,10 +212,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "65"
+        "85"
     ],
     "hot_plate_temp_initial_layer": [
-        "65"
+        "85"
     ],
     "idle_temperature": [
         "0"
@@ -228,15 +228,15 @@
         "-1"
     ],
     "is_custom_defined": "1",
-    "name": "Eryone Wood",
+    "name": "Aurapol PETG @ Natural",
     "nozzle_temperature": [
-        "202"
+        "255"
     ],
     "nozzle_temperature_initial_layer": [
-        "202"
+        "250"
     ],
     "nozzle_temperature_range_high": [
-        "202"
+        "255"
     ],
     "nozzle_temperature_range_low": [
         "0"
@@ -254,7 +254,7 @@
         "0.02"
     ],
     "reduce_fan_stop_start_freq": [
-        "1"
+        "0"
     ],
     "required_nozzle_HRC": [
         "0"
@@ -287,10 +287,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "65"
+        "85"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "85"
     ],
     "version": "1.6.0.0"
 }

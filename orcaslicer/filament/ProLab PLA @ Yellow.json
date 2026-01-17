@@ -18,15 +18,15 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "100"
+        "0"
     ],
     "chamber_temperature": [
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "1"
+        "3"
     ],
-    "compatible_printers": [],
+    "compatible_printers": "",
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
@@ -34,13 +34,13 @@
         "80"
     ],
     "cool_plate_temp": [
-        "60"
+        "65"
     ],
     "cool_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "default_filament_colour": [
-        "#BFBFBF"
+        "#FFFF0A"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -52,22 +52,22 @@
         "1"
     ],
     "enable_pressure_advance": [
-        "1"
+        "0"
     ],
     "eng_plate_temp": [
-        "60"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "fan_cooling_layer_time": [
-        "100"
+        "60"
     ],
     "fan_max_speed": [
         "100"
     ],
     "fan_min_speed": [
-        "100"
+        "35"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -79,7 +79,7 @@
         "4"
     ],
     "filament_cost": [
-        "20"
+        "249"
     ],
     "filament_density": [
         "1.24"
@@ -91,12 +91,11 @@
         "1.75"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\nCLEAR_ACTIVE_SPOOL"
+        "; Filament-specific end gcode \n;END gcode for filament\nCLEAR_ACTIVE_SPOOL"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "0.99"
     ],
-    "filament_id": "P847a377",
     "filament_is_support": [
         "0"
     ],
@@ -110,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "25"
+        "16"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -146,22 +145,22 @@
         "nil"
     ],
     "filament_retract_when_changing_layer": [
-        "nil"
+        "1"
     ],
     "filament_retraction_distances_when_cut": [
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "0.8"
     ],
     "filament_retraction_minimum_travel": [
-        "nil"
+        "2"
     ],
     "filament_retraction_speed": [
-        "nil"
+        "40"
     ],
     "filament_settings_id": [
-        "Proffesional Lab PLA Basic GREY"
+        "ProLab PLA @ Yellow"
     ],
     "filament_shrink": [
         "100%"
@@ -179,7 +178,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n;right_extruder_material: PLA\nSET_ACTIVE_SPOOL ID=REDPLA"
+        "; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.0235\nSET_ACTIVE_SPOOL ID=8\nSET_RETRACTION RETRACT_LENGTH=1.4\nSET_RETRACTION RETRACT_SPEED=45"
     ],
     "filament_toolchange_delay": [
         "0"
@@ -194,10 +193,10 @@
         "100"
     ],
     "filament_vendor": [
-        "Proffesional Lab"
+        "ProLab"
     ],
     "filament_wipe": [
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
         "nil"
@@ -213,43 +212,46 @@
         "0"
     ],
     "hot_plate_temp": [
-        "50"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "idle_temperature": [
         "0"
     ],
-    "inherits": "",
     "internal_bridge_fan_speed": [
         "-1"
     ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
+    "inherits" : "Prusament PLA @Template",
     "is_custom_defined": "1",
-    "name": "Proffesional Lab PLA Basic GREY",
+    "name": "ProLab PLA @ Yellow",
     "nozzle_temperature": [
-        "210"
+        "215"
     ],
     "nozzle_temperature_initial_layer": [
-        "210"
+        "215"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "215"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "0"
     ],
     "overhang_fan_speed": [
         "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "95%"
     ],
     "pellet_flow_coefficient": [
         "0.4157"
     ],
     "pressure_advance": [
-        "0.025"
+        "0.02"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -261,10 +263,10 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "6"
+        "5"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "supertack_plate_temp": [
         "35"
@@ -273,10 +275,10 @@
         "35"
     ],
     "support_material_interface_fan_speed": [
-        "100"
+        "-1"
     ],
     "temperature_vitrification": [
-        "60"
+        "100"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -285,10 +287,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "60"
+        "65"
     ],
     "textured_plate_temp_initial_layer": [
         "65"
     ],
-    "version": "2.3.0.1"
+    "version": "1.6.0.0"
 }
