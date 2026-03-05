@@ -160,7 +160,7 @@
         "30"
     ],
     "filament_settings_id": [
-        "ProLab TPU @ White"
+        "ProLab TPU - White"
     ],
     "filament_shrink": [
         "100%"
@@ -220,7 +220,7 @@
     "idle_temperature": [
         "0"
     ],
-    "inherits" : "Prusament TPU @Template",
+    "inherits" : "",
     "internal_bridge_fan_speed": [
         "-1"
     ],
@@ -228,7 +228,7 @@
         "-1"
     ],
     "is_custom_defined": "1",
-    "name": "ProLab TPU @ White",
+    "name": "ProLab TPU - White",
     "nozzle_temperature": [
         "215"
     ],

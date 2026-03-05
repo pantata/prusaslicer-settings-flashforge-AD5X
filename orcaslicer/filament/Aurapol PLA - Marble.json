@@ -226,7 +226,7 @@
     "ironing_fan_speed": [
         "-1"
     ],
-    "inherits" : "Prusament PLA @Template",
+    "inherits" : "",
     "is_custom_defined": "1",
     "name": "Aurapol Marble",
     "nozzle_temperature": [

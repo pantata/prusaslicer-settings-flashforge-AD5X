@@ -29,7 +29,7 @@
    "filament_retraction_length" : "0.8",
    "filament_retraction_minimum_travel" : "2",
    "filament_retraction_speed" : "35",
-   "filament_settings_id" : "Prusament ASA @ Sapphire Blue",
+   "filament_settings_id" : "Prusament ASA - Sapphire Blue",
    "filament_soluble" : "0",
    "filament_start_gcode" : [
       "; Filament gcode\n; Filament gcode\n; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.01\nSET_ACTIVE_SPOOL ID=15"
@@ -42,9 +42,9 @@
    "full_fan_speed_layer" : "0",
    "hot_plate_temp" : "100",
    "hot_plate_temp_initial_layer" : "100",
-   "inherits" : "Prusament ASA @Template",
+   "inherits" : "",
    "is_custom_defined" : "1",
-   "name" : "Prusament ASA @ Sapphire Blue",
+   "name" : "Prusament ASA - Sapphire Blue",
    "nozzle_temperature" : "260",
    "nozzle_temperature_initial_layer" : "260",
    "nozzle_temperature_range_high" : "260",

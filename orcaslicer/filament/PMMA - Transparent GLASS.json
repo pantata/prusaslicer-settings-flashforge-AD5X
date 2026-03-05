@@ -42,7 +42,7 @@
    "full_fan_speed_layer" : "0",
    "hot_plate_temp" : "110",
    "hot_plate_temp_initial_layer" : "110",
-   "inherits" : "Prusament ASA @Template",
+   "inherits" : "",
    "is_custom_defined" : "1",
    "name" : "PMMA - Transparent GLASS",
    "nozzle_temperature" : "260",

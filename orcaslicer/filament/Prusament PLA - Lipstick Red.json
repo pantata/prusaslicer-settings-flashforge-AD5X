@@ -26,7 +26,7 @@
       ""
    ],
    "filament_retract_when_changing_layer" : "0",
-   "filament_settings_id" : "Prusament PLA @ Lipstick Red",
+   "filament_settings_id" : "Prusament PLA - Lipstick Red",
    "filament_soluble" : "0",
    "filament_start_gcode" : [
       "; Filament gcode\n; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.0235\nSET_ACTIVE_SPOOL ID=14"
@@ -38,9 +38,9 @@
    "full_fan_speed_layer" : "3",
    "hot_plate_temp" : "65",
    "hot_plate_temp_initial_layer" : "65",
-   "inherits" : "Prusament PLA @Template",
+   "inherits" : "",
    "is_custom_defined" : "1",
-   "name" : "Prusament PLA @ Lipstick Red",
+   "name" : "Prusament PLA - Lipstick Red",
    "nozzle_temperature" : "215",
    "nozzle_temperature_initial_layer" : "215",
    "nozzle_temperature_range_high" : "215",

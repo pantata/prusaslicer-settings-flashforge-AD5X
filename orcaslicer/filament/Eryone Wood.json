@@ -220,7 +220,7 @@
     "idle_temperature": [
         "0"
     ],
-    "inherits" : "Prusament ASA @Template",
+    "inherits" : "",
     "internal_bridge_fan_speed": [
         "-1"
     ],
