@@ -28,7 +28,6 @@
    "filament_retract_when_changing_layer" : "1",
    "filament_retraction_length" : "0.8",
    "filament_retraction_minimum_travel" : "2",
-   "filament_retraction_speed" : "35",
    "filament_settings_id" : "Prusament ASA - Sapphire Blue",
    "filament_soluble" : "0",
    "filament_start_gcode" : [
@@ -37,7 +36,6 @@
    "filament_type" : "ASA",
    "filament_vendor" : "Prusa Polymers",
    "filament_wipe" : "1",
-   "filament_z_hop" : "0.2",
    "from" : "User",
    "full_fan_speed_layer" : "0",
    "hot_plate_temp" : "100",

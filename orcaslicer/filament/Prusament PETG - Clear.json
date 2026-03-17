@@ -20,10 +20,14 @@
       "; Filament-specific end gcode\nCLEAR_ACTIVE_SPOOL"
    ],
    "filament_flow_ratio" : "1",
+   "filament_max_volumetric_speed" : "10",
    "filament_minimal_purge_on_wipe_tower" : "0",
    "filament_notes" : [
       ""
    ],
+   "filament_retract_when_changing_layer" : "1",
+   "filament_retraction_length" : "0.8",
+   "filament_retraction_minimum_travel" : "2",
    "filament_settings_id" : "Prusament PETG - Clear",
    "filament_soluble" : "0",
    "filament_start_gcode" : [
@@ -31,6 +35,7 @@
    ],
    "filament_type" : "PETG",
    "filament_vendor" : "Prusa Polymers",
+   "filament_wipe" : "1",
    "from" : "User",
    "full_fan_speed_layer" : "5",
    "hot_plate_temp" : "90",
@@ -39,9 +44,9 @@
    "is_custom_defined" : "1",
    "name" : "Prusament PETG - Clear",
    "nozzle_temperature" : "250",
-   "nozzle_temperature_initial_layer" : "240",
-   "nozzle_temperature_range_high" : "250",
-   "nozzle_temperature_range_low" : "0",
+   "nozzle_temperature_initial_layer" : "250",
+   "nozzle_temperature_range_high" : "260",
+   "nozzle_temperature_range_low" : "240",
    "overhang_fan_speed" : "50",
    "reduce_fan_stop_start_freq" : "1",
    "slow_down_for_layer_cooling" : "1",

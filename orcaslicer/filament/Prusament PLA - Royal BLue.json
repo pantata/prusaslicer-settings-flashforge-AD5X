@@ -26,7 +26,7 @@
       "Affordable filament for everyday printing in premium quality manufactured in-house by Josef Prusa"
    ],
    "filament_retract_when_changing_layer" : "0",
-   "filament_settings_id" : "Prusament PLA - Royal BLue",
+   "filament_settings_id" : "Prusament PLA - Royal Blue",
    "filament_soluble" : "0",
    "filament_start_gcode" : [
       "; Filament gcode\n; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.0235\nSET_ACTIVE_SPOOL ID=12"
@@ -40,7 +40,7 @@
    "hot_plate_temp_initial_layer" : "65",
    "inherits" : "",
    "is_custom_defined" : "1",
-   "name" : "Prusament PLA - Royal BLue",
+   "name" : "Prusament PLA - Royal Blue",
    "nozzle_temperature" : "215",
    "nozzle_temperature_initial_layer" : "215",
    "nozzle_temperature_range_high" : "215",
